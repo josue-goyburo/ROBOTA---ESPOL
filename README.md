@@ -1,2 +1,2 @@
 # ROBOTA - ESPOL
-First Github repository ever and place for documentation and technical notes for the robotics and automation workshops at ESPOL. 
+Place for documentation and technical notes for robotics and automation workshops
